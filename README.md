@@ -2,5 +2,5 @@
 
 ### How to compile
 ```sh
- g++ -Wall data_types_i_o.cc
+g++ -Wall data_types_i_o.cc
 ````
